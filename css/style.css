@@ -9,8 +9,12 @@ body {
     padding: 15px;
 }
 
-h1, h2 {
+h1, h2, p {
     font-weight: 400;
+}
+
+p {
+    margin-top: 20px;
 }
 
 .inputWrapper {
